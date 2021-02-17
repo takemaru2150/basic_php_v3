@@ -1,7 +1,8 @@
 # basic_php_v3
-ドットインストール：はじめてのPHP [macOS版]
-https://dotinstall.com/lessons/basic_php_v3
- 
+ドットインストール：はじめてのPHP [macOS版]：https://dotinstall.com/lessons/basic_php_v3
+
+サイト：http://takemaru.work/basic_php_v3-master/index.php
+
  #01 開発環境について理解しよう
  
  #02 Dockerを使って開発環境を整えよう
